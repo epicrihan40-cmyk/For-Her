@@ -55,7 +55,7 @@ button {
 <div class="container">
     <h1>Happy Birthday [Afiya] 🎉</h1>
 
-    <img src="photo.jpg" alt="Her Photo">
+    <img src="img_0861.jpg" alt="Her Photo">
 
     <p>
         You are one of the most special people in my life 💖  
